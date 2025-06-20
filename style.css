@@ -1,0 +1,35 @@
+.heading{
+    text-align:center;
+    border:3px dotted aqua;
+    background-color: beige;
+}
+.navi a{
+    display:block;
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: hsl(0, 1%, 35%);
+    color:hsl(208, 100%, 97%);
+    text-align: center;
+    border: 2px solid rgb(52, 49, 49);
+}
+.navi a:hover{
+    background-color: hsla(0, 0%, 0%, 0.566);
+}
+.navi .bar{
+    float:left;
+}
+#item img{
+    display:block;
+    width:100px;
+    height:100px;
+    border:3px solid black;
+    float:left;
+}
+#menu{
+    margin:0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#head{
+    color:#4a863e;
+}
